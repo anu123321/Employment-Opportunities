@@ -63,6 +63,19 @@
 "requirements" : "frameworks such as WordPress, Drupal, Magento, Joomla, etc",
 
 "contactEmail" : "digitizematrix@gmail.com"}
+  {
+  
+"id" : "9",
+
+"companyName " : "google",
+
+"position" : "Frontend Developer",
+
+"requirements" : "Html, CSS, JavaScript",
+
+"contactEmail" : "anushkarananaware@gmail.com" 
+ },
+ 
 
  
 ]
